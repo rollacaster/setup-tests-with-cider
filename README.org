@@ -1,0 +1,3 @@
+* Minimal examle to Setup tests with Cider & deps.edn
+
+- check the blogpost to learn more: https://thomas-sojka.tech/setup-tests-with-cider-and-depsedn-in-5-steps.html
